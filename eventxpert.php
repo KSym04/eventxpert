@@ -4,7 +4,7 @@
  * Plugin URI: https://www.dopethemes.com/downloads/eventxpert/
  * Description: Event Xpert is the ultimate event management solution for WordPress. Easily create, manage, and promote events with customizable designs, integrated booking, calendar sync, social media integration, and more.
  * Version: 1.0
- * Author: DopeThemes
+ * Author: [DopeThemes](https://www.dopethemes.com), [mynstudio](https://mynstudio.com/), [2fxmedia](https://2fxmedia.net/)
  * Author URI: https://www.dopethemes.com
  * Text Domain: eventxpert
  * Domain Path: /lang
@@ -13,7 +13,7 @@
  */
 
 /*
-    Copyright DopeThemes
+    Copyright DopeThemes, mynstudio, 2fxmedia
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
