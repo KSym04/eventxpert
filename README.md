@@ -1,6 +1,6 @@
 # Event Xpert
 
-**Contributors:** [DopeThemes](https://www.dopethemes.com), [mynstudio](https://mynstudio.com/), [2fxmedia](https://2fxmedia.net/)  
+**Contributors:** [DopeThemes](https://www.dopethemes.com), [mynstudio](https://mynstudio.com/), [2fxmedia](https://2fxmedia.net/)
 **Tags:** events, calendar, scheduling, booking  
 **Requires at least:** 4.9  
 **Tested up to:** 6.2  
