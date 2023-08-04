@@ -1,5 +1,5 @@
 === Event Xpert ===
-Contributors: DopeThemes
+Contributors: DopeThemes, mynstudio, 2fxmedia
 Tags: events, calendar, scheduling, booking
 Requires at least: 4.9
 Tested up to: 6.2
