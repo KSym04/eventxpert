@@ -59,4 +59,4 @@ Initial release. Welcome to Event Xpert!
 
 == Additional Information ==
 
-For more information, support, or feature requests, please visit [our website](https://www.dopethemes.com) or contact us at support@dopethemes.com.
+For more information, support, or feature requests, please visit [our website](https://www.dopethemes.com) or contact us at hello@dopethemes.com.

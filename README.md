@@ -1,6 +1,6 @@
 # Event Xpert
 
-**Contributors:** [DopeThemes](https://www.dopethemes.com), [mynstudio](https://mynstudio.com/), [2fxmedia](https://2fxmedia.net/)  
+**Contributors:** [DopeThemes](https://www.dopethemes.com), [mynstudio](https://mynstudio.com/), [2fxmedia](https://2fxmedia.net/)
 **Tags:** events, calendar, scheduling, booking  
 **Requires at least:** 4.9  
 **Tested up to:** 6.2  
@@ -63,4 +63,4 @@ Initial release. Welcome to Event Xpert!
 
 ## Additional Information
 
-For more information, support, or feature requests, please visit [our website](https://www.dopethemes.com) or contact us at support@dopethemes.com.
+For more information, support, or feature requests, please visit [our website](https://www.dopethemes.com) or contact us at hello@dopethemes.com.
